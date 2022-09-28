@@ -1,5 +1,12 @@
 #include <stdio.h>
 #include <string.h>
+/**
+ * main - void
+ *
+ * Description: puts in c
+ *
+ * Return: 0
+ */
 
 int main(void)
 {
