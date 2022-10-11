@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * _puts - prints a string with newline
+ * @str: the string to print
  *
- * Return: Always 0.
+ * Return: void
  */
 void _puts(char *str);
 	{
